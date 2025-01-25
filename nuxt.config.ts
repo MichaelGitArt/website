@@ -23,6 +23,9 @@ export default defineNuxtConfig({
       bodyAttrs: {
         class: "antialiased bg-gray-50 dark:bg-black min-h-screen",
       },
+      meta: [
+        { name: "google-site-verification", content: "rfDT1abMAkcLdB2Uu7d3gpoQrTR5ctWB_45AMNnt3tk" }
+      ],
     },
   },
   content: {
