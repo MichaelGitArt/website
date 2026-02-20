@@ -1,0 +1,7 @@
+{
+  "name": "Gitart Manage Vue Dialog",
+  "url": "https://www.npmjs.com/package/gitart-manage-vue-dialog",
+  "description": "The dialog utilities allow you to manage dialogs consistently without putting the components in the template. Or even launch dialogs from a store.",
+  "status": "Active",
+  "opensource": true
+}
